@@ -4,8 +4,8 @@
 // @category       Info
 // @version        0.1.2
 // @namespace      https://github.com/tarmn3/iitc_listing_Ornamented_Portals/
-// @updateURL      https://github.com/tarmn3/iitc_listing_Ornamented_Portals/raw/main/list-ornamented-portals.user.js
-// @downloadURL    https://github.com/tarmn3/iitc_listing_Ornamented_Portals/raw/main/list-ornamented-portals.user.js
+// @updateURL      https://github.com/tarmn3/iitc_listing_Ornamented_Portals/blob/main/iitc_listing_Ornamented_Portals.user.js
+// @downloadURL    https://github.com/tarmn3/iitc_listing_Ornamented_Portals/blob/main/iitc_listing_Ornamented_Portals.user.js
 // @description    List all ornamented portals in the current map view
 // @include        https://intel.ingress.com/*
 // @match          https://intel.ingress.com/*
